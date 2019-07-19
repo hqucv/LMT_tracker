@@ -27,10 +27,10 @@ If you find this work useful for your research, please consider citing our work:
 ```
 @inproceedings{LMT,
     title={Localization-Aware Meta Tracker Guided with Adversarial Features},
-    author={Yiting, Lin, Bineng Zhong, Guorong Li, Sicheng Zhao, Ziyi Chen, and Wentao FanWang},
+    author={Yiting Lin, Bineng Zhong, Guorong Li, Sicheng Zhao, Ziyi Chen, and Wentao FanWang},
     booktitle={IEEE ACCESS},
     year={2019}
-} 
+}  
 ```
 
 ### Contact
