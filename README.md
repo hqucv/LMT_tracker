@@ -8,7 +8,7 @@ This repository includes the code for tracker LMT.
 
 Pytorch implementation is available at [LMT_pytorch](https://github.com/HQUCV/LMT_tracker/).
 
-![](../master/pipline.jpg)
+![](../master/pipeline.jpg)
 
 The overall framework of our LMT tracker. It is composed of three components: (1) Feature extraction network, (2) Classification network, and (3) IoU prediction network.  We use the predicted IoU to adjust the classification scores, and choose the top K candidate patches according to the classification scores. Finally, we use bounding box regression to further fine-tune the location of the object.
 
@@ -17,7 +17,7 @@ Deep learning has recently shown great potentials in learning powerful features 
 
 ### Result
 
-[Intro.pdf](../master/result.pdf).
+[result.pdf](../master/result.pdf).
 
 ### License
 Licensed under an MIT license.
